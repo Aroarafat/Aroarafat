@@ -6,7 +6,7 @@
 - 📫 How to reach me: arafathossainbcpsc@gmail.com 
 - ⚡ Fun fact: I love to play Cricket🏏and Basketbal🏀
 
-  ![Profile views](https://gpvc.arturio.dev/Aroarafat)
+- ![Profile views](https://gpvc.arturio.dev/Aroarafat)
 
 ## Connect with Me:
 
