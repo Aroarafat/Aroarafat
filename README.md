@@ -1,4 +1,4 @@
-## Hello, I'm Md.Arafat Hossain from BANGLADESH👋
+## Hello, I'm Arafat from BANGLADESH👋
 
 - 🔭 I’m currently working on My Programming Skills 
 - 🌱 I’m currently learning React 
