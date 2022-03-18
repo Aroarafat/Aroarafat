@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning React 
 - 💻 Most used code `console.log()` 
 - 📫 How to reach me: arafathossainbcpsc@gmail.com 
-- ⚡ Fun fact: I love to play Cricket🏏and Basketbal🏀
+- ⚡ Fun fact: I love to play Cricket🏏and Basketball🏀
 
 - ![Profile views](https://gpvc.arturio.dev/Aroarafat)
 
