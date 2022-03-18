@@ -34,7 +34,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aroarafat&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="coderdaiyan" /></p><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aroarafat&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="Aroarafat" /></p><br>
-<p>![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Aroarafat)<p>
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Aroarafat)
 
   
 
