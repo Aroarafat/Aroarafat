@@ -1,14 +1,12 @@
-### Hello,I'm Md.Arafat Hossain from BANGLADESH👋
-
-currently learning Web-Development
-
-Skills: HTML / CSS / BOOTSTRAP / TAILWIND / JS / REACT
+### Hello, I'm Md.Arafat Hossain from BANGLADESH👋
 
 - 🔭 I’m currently working on My Programming Skills 
 - 🌱 I’m currently learning React 
-- 💬 Ask me about Web-Development 
+- 💻 Most used code `console.log()` 
 - 📫 How to reach me: arafathossainbcpsc@gmail.com 
 - ⚡ Fun fact: I love to play Cricket🏏and Basketbal🏀 
+
+Skills: HTML / CSS / BOOTSTRAP / TAILWIND / JS / REACT
 
 ### Connect with Me 
 
