@@ -1,9 +1,5 @@
-![Web-Developer](https://scontent.fdac129-1.fna.fbcdn.net/v/t39.30808-6/275748938_3267802603506937_3277042808128403416_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=tqJ7al0UIDYAX9HhBrq&_nc_ht=scontent.fdac129-1.fna&oh=00_AT_Kg3yTajGy3jjXBLGSeuyku5vFLniW--Nhmwnn2k_rUA&oe=6239EF10)
-
 ### Hi there 👋, I'm Md.Arafat Hossain
 #### Web-Developer
-
-![Web-Developer](https://scontent.fdac129-1.fna.fbcdn.net/v/t39.30808-6/275748938_3267802603506937_3277042808128403416_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=tqJ7al0UIDYAX9HhBrq&_nc_ht=scontent.fdac129-1.fna&oh=00_AT_Kg3yTajGy3jjXBLGSeuyku5vFLniW--Nhmwnn2k_rUA&oe=6239EF10)
 
 currently learning Web-Development
 
