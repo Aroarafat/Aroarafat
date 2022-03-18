@@ -16,6 +16,7 @@
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/16612053/aroarafat)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daiyanabdallah@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/Aarafat1634)
+![Profile views](https://gpvc.arturio.dev/Aroarafat)  
 
 ## 💻 Languages and Tools:
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -43,4 +44,4 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Aroarafat)  
 
-![Profile views](https://gpvc.arturio.dev/Aroarafat)  
+
