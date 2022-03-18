@@ -32,7 +32,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Aroarafat)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Aroarafat)<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aroarafat&show_icons=true&count_private=true)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Aroarafat)](https://github.com/ryo-ma/github-profile-trophy)
 
